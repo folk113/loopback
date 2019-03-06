@@ -9,3 +9,5 @@ MsgHandler.getInstance().getMsg("recipientId", "createdTime", true, new IArrayMo
       @Override
       public void onReceiveModelData(boolean success, List<MsgModel> data, ErrorModel errorModel) {       
   });</code><pre>
+
+源码相关描述请查阅 http://www.phubber.com/2019/03/05/android-loopback-patch-json-recursive-parse/
